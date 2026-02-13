@@ -1,7 +1,7 @@
 <h1 align="center">Ola! Seja bem vindo ao meu Github</h1>
 meu nome é kayke ramos
 estou fazendo curso de desenvolvimento de sistemas
-HTML e JS sao os componentes que gosot de estudar
+HTML e JS sao os componentes que gosto de estudar
 meu hobby é jogar bola e ir para academia 
 3º ano iremos trabalhar: HTML5 e CSS python, JS.<h1/>
 ###
